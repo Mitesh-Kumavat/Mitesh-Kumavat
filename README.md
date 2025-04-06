@@ -21,7 +21,9 @@
 ## 📈 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mitesh-Kumavat&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Mitesh-Kumavat&theme=radical&hide_border=false" alt="streak graph" />
 </p>
+
 
 ---
 
